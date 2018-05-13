@@ -16,3 +16,8 @@ export PS1='\[\e[32m\]\u@\h\[\e[0m\]:\[\e[94m\]\w\[\e[0m\]\$ '
 
 # Visual Studio Code
 Use extension "Settings Sync" to restore configurations and extensions.
+
+Gist id:
+```
+2fd927e4c6b5fcc02f07c7c579add317
+```
