@@ -8,6 +8,7 @@
 *  python3
 *  pycodestyle
 *  Spectacle
+*  vim
 
 # Prompt (PS1)
 ```bash
