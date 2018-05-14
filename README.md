@@ -24,6 +24,12 @@ Gist id:
 export PS1='\[\e[32m\]\u@\h\[\e[0m\]:\[\e[94m\]\w\[\e[0m\]\$ '
 ```
 
+## Spectacle
+Change preferences to remove conflict with VSCode's shortcut to add more cursors.
+
+*  Top Half: `Cmd` + `Alt` + `Shift` + `Up`
+*  Bottom Half: `Cmd` + `Alt` + `Shift` + `Down`
+
 # Ubuntu
 ## Change mouse button modifier to `Super`
 
