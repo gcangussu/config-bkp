@@ -29,12 +29,3 @@ Change preferences to remove conflict with VSCode's shortcut to add more cursors
 
 *  Top Half: `Cmd` + `Alt` + `Shift` + `Up`
 *  Bottom Half: `Cmd` + `Alt` + `Shift` + `Down`
-
-# Ubuntu
-## Change mouse button modifier to `Super`
-
-This will enable you to use `Alt` + `Click` for multi cursors in VSCode.
-
-```bash
-dconf write /org/gnome/desktop/wm/preferences/mouse-button-modifier '"<Super>"'
-```
