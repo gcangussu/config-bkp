@@ -1,0 +1,1 @@
+sudo docker exec -it $(sudo docker ps | grep backend | cut -d" " -f1) bash
